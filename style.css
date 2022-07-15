@@ -8,3 +8,35 @@
     background-size: cover;
     height: 40vh;
 }
+
+.review-card {
+
+}
+
+.grow10 {
+    height: 10vh;
+}
+
+.grow20 {
+    height: 20vh;
+}
+
+.grow40 {
+    height: 40vh;
+}
+
+.secondary-color {
+    background-color: silver;
+}
+
+.mr-100 {
+    margin-right: 100px;
+}
+
+.mr-150 {
+    margin-right: 150px;
+}
+
+.mr-200 {
+    margin-right: 200px;
+}
