@@ -11,11 +11,19 @@ body {
       padding: 0;
       margin: 0;
     }
+    div.col-md-6.col-12.order-md-2.skills-card {
+        transform: translateY(0px);
+    }
   }
   
 .dark-gray {
     background-color: rgb(47, 47, 47);
 }
+
+.med-gray {
+    background-color: rgb(172, 172, 172);
+}
+
 
 .light-gray {
     background-color: rgb(214, 214, 214);
@@ -46,7 +54,7 @@ body {
 }
 
 .skills-card {
-    transform: translateY(-40);
+    transform: translateY(80px);
     
     
 }
