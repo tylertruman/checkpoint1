@@ -4,7 +4,7 @@ body {
 
 @media only screen and (max-width: 767px) {
     section.row.grow40.dark-gray.pt-3.pb-3.align-items-center {
-      height: 60vh;
+      min-height: 60vh;
       align-items: center;
       justify-items: center;
       align-self: center;
@@ -60,15 +60,15 @@ body {
 }
 
 .grow10 {
-    height: 10vh;
+    min-height: 10vh;
 }
 
 .grow20 {
-    height: 20vh;
+    min-height: 20vh;
 }
 
 .grow40 {
-    height: 40vh;
+    min-height: 40vh;
 }
 
 
